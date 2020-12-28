@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<script src="js/js.js"></script>
+    <script>
+        function getXml() {
+            fetch('http://localhost:5000/files/xml/xml.xml',{
+                method: 'GET',
+                headers: {'Content-Type': 'text/plain'}
+            }).then((res) => {return res.text()})
+            .then((data) => {
+                let parser = new DOMParser();
+                let xml = parser.parseFromString(data, 'application/xml');
+                document.getElementById('xmlText').innerHTML = data;
+            })
+        }
+        function getJson() {
+            fetch('http://localhost:5000/files/json/json.json',{
+                method: 'GET',
+                headers: {'Content-Type': 'application/json'}
+            })
+            .then((res) => {return res.json()})
+            .then((data) => {document.getElementById('jsonText').innerHTML = data.name + ' ' + data.city + ' ' + data.age})
+        }
+    </script>
+    <link rel="stylesheet" href="css/css.css">
+</head>
+<body>
+Check css
+<div><img src="img/png.png" alt=""></div>
+<div><video src="video/run.mp4" controls="controls"></video></div>
+<div><a href="msword/word.docx">MS WORD</a></div>
+<div><button onclick="getXml()">GET XML</button></div>
+<div id="xmlText"></div>
+<div><button onclick="getJson()">GET JSON</button></div>
+<div id="jsonText"></div>
+</body>
+</html>

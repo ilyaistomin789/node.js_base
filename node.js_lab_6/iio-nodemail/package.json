@@ -1,0 +1,16 @@
+{
+  "name": "iio-nodemail",
+  "version": "1.0.1",
+  "description": "",
+  "main": "m0603.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilyaistomin789"
+  },
+  "author": "Ilya Istomin",
+  "license": "ISC",
+  "dependencies": {}
+}

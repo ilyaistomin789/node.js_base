@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>03-02 fetch(),03-04,03-05</title>
+    <script>
+        for (let t = 1; t < 21; t++){
+            const start = Date.now();
+            console.log(t);
+            fetch(('http://localhost:5000/fact?k=' + t),{
+                method: 'GET',
+                headers: {'Content-Type': 'application/json', 'Accept': 'application/json'},
+            }).then(response =>{return response.json();})
+            .then(res=>{document.getElementById('res').innerHTML += (t) + '.Результат: ' + (Date.now() - start) + '-' + res.k + '/' + res.fact + '<br/>'});
+        }
+    </script>
+</head>
+<body>
+<div id="res"></div>
+</body>
+</html>

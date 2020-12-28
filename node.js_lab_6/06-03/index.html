@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>06-03</title>
+    <script>
+        function sendFields(){
+            fetch('http://localhost:5000',{
+                method: 'POST',
+                headers: {'Content-Type' : 'application/json'},
+                body: JSON.stringify({mailMessage: mailMessage.value})
+            }).then((res) => {return res.json();})
+        }
+    </script>
+</head>
+<body>
+<div>Message: </div>
+<input type="text" id="mailMessage">
+<button onclick="sendFields()">SEND</button>
+</body>
+</html>

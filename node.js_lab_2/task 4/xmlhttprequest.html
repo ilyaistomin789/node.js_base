@@ -1,0 +1,18 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <script>
+        const xhr = new XMLHttpRequest();
+        xhr.open('GET','http://localhost:5000/api/name',true);
+        xhr.send();
+        xhr.onreadystatechange = function (){
+            if (xhr.readyState == 4){
+                document.getElementById('res').innerHTML = xhr.responseText;
+            }
+        }
+    </script>
+</head>
+<body>
+<div id='res'></div>
+</body>
+</html>

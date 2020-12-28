@@ -1,0 +1,8 @@
+{
+  "__comment": "Request. Lab 8/10",
+  "x": 1,
+  "y": 4,
+  "s": "my message",
+  "m": ["a","b","c","d"],
+  "o": {"surname": "Istomin", "name": "Ilya"}
+}

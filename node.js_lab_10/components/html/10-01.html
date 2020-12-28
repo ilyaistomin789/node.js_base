@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>10-01</title>
+    <style>
+        body{
+            font-family: "Comic Sans MS";
+        }
+    </style>
+    <script>
+        let k = 0;
+        function startWS() {
+            const ws = new WebSocket('ws://localhost:4000/ws_server');
+            ws.onopen = () => {
+                setInterval(() => {ws.send(`10-01-client: ${++k}`);},3000)
+            }
+            ws.onmessage = (message) => {document.getElementById('server_mes').innerHTML += `${message.data}<br/>`};
+            setTimeout(() => {ws.close()}, 25000);
+        }
+    </script>
+</head>
+<body>
+<h3>10-01</h3>
+<button onclick="startWS()">Start WS</button>
+<div id="server_mes"></div>
+</body>
+</html>

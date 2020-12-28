@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00844d51-5540-4968-b863-a6283222ba43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kKPppwNi9Unv0J5Ji3HmFPWpRl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Node_Js_Labs-master/Node_Js_Labs-master/labb11" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.11-02Client">
+    <configuration name="11-01Client" type="NodeJSConfigurationType" path-to-js-file="client/11-01.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-01Server" type="NodeJSConfigurationType" singleton="false" path-to-js-file="server/11-01.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-02Client" type="NodeJSConfigurationType" path-to-js-file="client/11-02.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-02Server" type="NodeJSConfigurationType" singleton="false" path-to-js-file="server/11-02.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-03Client" type="NodeJSConfigurationType" path-to-js-file="client/11-03.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-03Server" type="NodeJSConfigurationType" path-to-js-file="server/11-03.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-04Client" type="NodeJSConfigurationType" path-to-js-file="client/11-04.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-04Server" type="NodeJSConfigurationType" path-to-js-file="server/11-04.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-05-parallelClient" type="NodeJSConfigurationType" path-to-js-file="client/11-05-parallel.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-05-waterfallClient" type="NodeJSConfigurationType" application-parameters="--unhandled-rejections=strict" path-to-js-file="client/11-05-waterfall.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-05CLient" type="NodeJSConfigurationType" path-to-js-file="client/11-05.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-05Server" type="NodeJSConfigurationType" path-to-js-file="server/11-05.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-06Client_A" type="NodeJSConfigurationType" application-parameters="A" path-to-js-file="client/11-06a.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-06Client_B" type="NodeJSConfigurationType" application-parameters="B" path-to-js-file="client/11-06a.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-06Client_C" type="NodeJSConfigurationType" application-parameters="C" path-to-js-file="client/11-06a.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-06Server" type="NodeJSConfigurationType" path-to-js-file="server/11-06.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.11-01Server" />
+      <item itemvalue="Node.js.11-02Server" />
+      <item itemvalue="Node.js.11-01Client" />
+      <item itemvalue="Node.js.11-02Client" />
+      <item itemvalue="Node.js.11-03Client" />
+      <item itemvalue="Node.js.11-04Server" />
+      <item itemvalue="Node.js.11-04Client" />
+      <item itemvalue="Node.js.11-05CLient" />
+      <item itemvalue="Node.js.11-05-parallelClient" />
+      <item itemvalue="Node.js.11-06Client_A" />
+      <item itemvalue="Node.js.11-06Client_B" />
+      <item itemvalue="Node.js.11-06Client_C" />
+      <item itemvalue="Node.js.11-06Server" />
+      <item itemvalue="Node.js.11-05-waterfallClient" />
+      <item itemvalue="Node.js.11-05Server" />
+      <item itemvalue="Node.js.11-03Server" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00844d51-5540-4968-b863-a6283222ba43" name="Default Changelist" comment="" />
+      <created>1605446495599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605446495599</updated>
+      <workItem from="1605446496673" duration="711000" />
+      <workItem from="1605601716378" duration="86000" />
+      <workItem from="1606599691761" duration="6921000" />
+      <workItem from="1606645125328" duration="3182000" />
+      <workItem from="1606685524187" duration="3091000" />
+      <workItem from="1606689370824" duration="362000" />
+      <workItem from="1606761384243" duration="4654000" />
+      <workItem from="1606770662885" duration="1373000" />
+      <workItem from="1607078632011" duration="5000" />
+      <workItem from="1607542136880" duration="10027000" />
+      <workItem from="1607603982812" duration="10944000" />
+      <workItem from="1607617054377" duration="20000" />
+      <workItem from="1607644022092" duration="1899000" />
+      <workItem from="1607669443818" duration="2009000" />
+      <workItem from="1607793132395" duration="50000" />
+      <workItem from="1607952362122" duration="163000" />
+      <workItem from="1608021230283" duration="4277000" />
+      <workItem from="1608714493364" duration="2797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607646767649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607646767649" />
+    <state x="730" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606686644396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606686644396" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1608714640701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608714640701" />
+    <state width="1899" height="277" key="GridCell.Tab.0.bottom" timestamp="1608728633162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608728633162" />
+    <state width="1899" height="277" key="GridCell.Tab.0.center" timestamp="1608728633162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608728633162" />
+    <state width="1899" height="277" key="GridCell.Tab.0.left" timestamp="1608728633162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608728633162" />
+    <state width="1899" height="277" key="GridCell.Tab.0.right" timestamp="1608728633162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608728633162" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.2.center" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.2.left" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.2.right" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.3.center" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.3.left" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+    <state width="1899" height="348" key="GridCell.Tab.3.right" timestamp="1607646836757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607646836757" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/11-01.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/11-02.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/server/11-05.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/11-05-parallel.js</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

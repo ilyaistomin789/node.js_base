@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form parameters</title>
+    <style>
+        .outer {
+            display: flex;
+            width: 200px;
+            height: 200px;
+        }
+
+        .inner {
+            width: 100px;
+            margin: auto;
+        }
+        body{
+            font-family: "Comic Sans MS";
+        }
+    </style>
+</head>
+<body>
+<div class="outer">
+<div class="inner">
+    <form action="/formparameter" method="post">
+        <input type="text" name="text">
+        <input type="number" name="number">
+        <input type="date" name="date">
+        <input type="checkbox" name="checkbox">
+        <input type="radio" name="radio">
+        <textarea name="textarea"></textarea>
+        <input type="submit" value="First Button" name="butt1">
+        <input type="submit" value="Second Button" name="butt2">
+    </form>
+</div>
+</div>
+</body>
+</html>

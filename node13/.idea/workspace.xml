@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69b9cc19-acca-4445-a8ad-7f74f777cf26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l9JtSriKOXmcOPrs6OOpQIOsYu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\main\5SEM\NODEJS\node13\node_modules\prettier" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\main\5SEM\NODEJS\node13" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.5-server.js">
+    <configuration name="1-client.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="src/1/1-client.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="1-server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="src/1/1-server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="2-client_1.js" type="NodeJSConfigurationType" application-parameters="1st" path-to-js-file="src/2/2-client.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="2-client_2.js" type="NodeJSConfigurationType" application-parameters="2nd" path-to-js-file="src/2/2-client.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="2-server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="src/2/2-server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="3-client_1.js" type="NodeJSConfigurationType" application-parameters="2" path-to-js-file="src/3/3-client.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="3-client_2.js" type="NodeJSConfigurationType" application-parameters="5" path-to-js-file="src/3/3-client.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="3-client_3.js" type="NodeJSConfigurationType" application-parameters="2" path-to-js-file="src/3/3-client.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="3-server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="src/3/3-server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="4-client_1.js" type="NodeJSConfigurationType" application-parameters="40000 7" path-to-js-file="src/4/4-client.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="4-client_2.js" type="NodeJSConfigurationType" application-parameters="50000 100" path-to-js-file="src/4/4-client.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="4-server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="src/4/4-server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="5-client.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="src/5/5-client.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="5-server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="src/5/5-server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.1-server.js" />
+      <item itemvalue="Node.js.1-client.js" />
+      <item itemvalue="Node.js.2-client_1.js" />
+      <item itemvalue="Node.js.2-client_2.js" />
+      <item itemvalue="Node.js.2-server.js" />
+      <item itemvalue="Node.js.3-server.js" />
+      <item itemvalue="Node.js.3-client_1.js" />
+      <item itemvalue="Node.js.3-client_2.js" />
+      <item itemvalue="Node.js.3-client_3.js" />
+      <item itemvalue="Node.js.4-server.js" />
+      <item itemvalue="Node.js.4-client_1.js" />
+      <item itemvalue="Node.js.4-client_2.js" />
+      <item itemvalue="Node.js.5-server.js" />
+      <item itemvalue="Node.js.5-client.js" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69b9cc19-acca-4445-a8ad-7f74f777cf26" name="Default Changelist" comment="" />
+      <created>1607003587708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607003587708</updated>
+      <workItem from="1607003588739" duration="4278000" />
+      <workItem from="1607009767317" duration="958000" />
+      <workItem from="1607014904941" duration="211000" />
+      <workItem from="1607059467935" duration="3825000" />
+      <workItem from="1607611833511" duration="3952000" />
+      <workItem from="1607663968370" duration="5925000" />
+      <workItem from="1608244059065" duration="2629000" />
+      <workItem from="1608273230677" duration="1421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608246067102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608246067102" />
+    <state x="801" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607671747340" />
+    <state x="1127" y="298" key="FileChooserDialogImpl" timestamp="1607619194100">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1127" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1607619194100" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1608246904508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608246904508" />
+    <state width="1899" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607672106708" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1608246904508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608246904508" />
+    <state width="1899" height="230" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607672106708" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1608246904508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608246904508" />
+    <state width="1899" height="230" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607672106708" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1608246904508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608246904508" />
+    <state width="1899" height="230" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607672106708" />
+    <state x="848" y="188" key="SettingsEditor" timestamp="1607010265628">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="848" y="188" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1607010265628" />
+    <state x="1010" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1607010263533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1010" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607010263533" />
+  </component>
+</project>

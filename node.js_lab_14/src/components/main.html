@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script>
+        function get() {
+            fetch('http://localhost:3000/api/pulpits', {
+                method: 'GET',
+                headers: {'Content-Type': 'application/json'}
+            }).then((res) => {return res.json();})
+                .then((data) => {document.getElementById('res').innerHTML += data;});
+        }
+        function post(){
+            fetch('http://localhost:3000/api/pulpits',{
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({pulpit: pulpit.value, pulpit_name: pulpit_name.value, faculty: faculty.value})
+            }).then((res) => {return res.json();})
+                .then((data) => {console.log(data)});
+        }
+        function put() {
+            fetch('http://localhost:3000/api/pulpits', {
+                method: 'PUT',
+                headers: {'Content-Type' : 'application/json'},
+                body: JSON.stringify({pulpit: c_pulpit.value, pulpit_name: new_pulpit.value, faculty: new_faculty.value})
+            }).then((res) => {return res.json()})
+            .then((data) => {console.log(data)});
+
+        }
+        function del() {
+            fetch('http://localhost:3000/api/pulpits/' + del_pulpit.value, {
+                method: 'DELETE',
+                headers: {'Content-Type': 'application/json'}
+            }).then((res) => {return res.json()})
+            .then((data) => {document.getElementById('data_info').innerHTML += data});
+        }
+    </script>
+    <title>Document</title>
+</head>
+<body>
+<div id="res"></div>
+<div id="err"></div>
+<button onclick="get()">GET</button>
+<form>
+    <fieldset>
+    <legend>Add Pulpit</legend>
+    <div>
+        <label>Pulpit: </label>
+        <input type="text" id="pulpit">
+    </div>
+    <div>
+        <label>Pulpit Name: </label>
+        <input type="text" id="pulpit_name">
+    </div>
+    <div>
+        <label>Faculty: </label>
+        <input type="text" id="faculty">
+    </div>
+    <div>
+        <button onclick="post()">ADD</button>
+    </div>
+    </fieldset>
+</form>
+<form>
+    <fieldset>
+        <legend>Edit Pulpit</legend>
+        <div>
+            <label>Current Pulpit: </label>
+            <input type="text" id="c_pulpit">
+        </div>
+        <div>
+            <label>New Pulpit: </label>
+            <input type="text" id="new_pulpit">
+        </div>
+        <div>
+            <label>New Faculty: </label>
+            <input type="text" id="new_faculty">
+        </div>
+        <div>
+            <button onclick="put()">Put</button>
+        </div>
+    </fieldset>
+</form>
+<form>
+    <fieldset>
+        <legend>Delete Pulpit</legend>
+        <div>
+            <label>Current Pulpit: </label>
+            <input type="text" id="del_pulpit">
+        </div>
+        <div>
+            <button onclick="del()">Delete pulpit</button>
+        </div>
+    </fieldset>
+</form>
+<div id="data_info"></div>
+</body>
+</html>

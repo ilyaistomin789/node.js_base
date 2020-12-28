@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="495b3856-3dad-4f54-bf08-21d9e09f7f16" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ibrovfQlHwpEXUEDn70B5i60gS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.65" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\education\Third_Course\Node.js\node.js_lab_7\static\files" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="http-server/server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="495b3856-3dad-4f54-bf08-21d9e09f7f16" name="Default Changelist" comment="" />
+      <created>1602187310431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602187310431</updated>
+      <workItem from="1602187311474" duration="2497000" />
+      <workItem from="1602189873410" duration="28000" />
+      <workItem from="1602220435586" duration="3193000" />
+      <workItem from="1602223753651" duration="56000" />
+      <workItem from="1602223824215" duration="103000" />
+      <workItem from="1602223951919" duration="510000" />
+      <workItem from="1602307941241" duration="38000" />
+      <workItem from="1602402574665" duration="867000" />
+      <workItem from="1602424182274" duration="517000" />
+      <workItem from="1602431959143" duration="15000" />
+      <workItem from="1602774115812" duration="2763000" />
+      <workItem from="1602784946924" duration="289000" />
+      <workItem from="1602831148863" duration="3270000" />
+      <workItem from="1603172715632" duration="54000" />
+      <workItem from="1603174398776" duration="483000" />
+      <workItem from="1603183452139" duration="4230000" />
+      <workItem from="1603223953928" duration="8000" />
+      <workItem from="1603264654861" duration="12000" />
+      <workItem from="1603435877916" duration="3621000" />
+      <workItem from="1603983272175" duration="22000" />
+      <workItem from="1607953240600" duration="220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602222905933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602222905933" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603983292026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603983292026" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1603440022557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603440022557" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1603440022557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603440022557" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1603440022557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603440022557" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1603440022557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603440022557" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1602223935885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602223935885" />
+  </component>
+</project>
